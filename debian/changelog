@@ -1,0 +1,5 @@
+cegcc-mingw (3.16-1) unstable; urgency=low
+
+  * initial Debian package
+
+ -- Max Kellermann <max@duempel.org>  Tue, 30 Apr 2013 14:36:49 +0200
